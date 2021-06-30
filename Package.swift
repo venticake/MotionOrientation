@@ -18,8 +18,7 @@ let package = Package(
                 "LICENSE",
                 "MotionOrientation.podspec",
                 "README.md"
-            ],
-            publicHeadersPath: "."
+            ]
         )
     ]
 )
