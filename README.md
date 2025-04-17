@@ -1,3 +1,5 @@
+# DEPRECATED use the original repo https://github.com/tastyone/MotionOrientation
+
 MotionOrientation
 =================
 
